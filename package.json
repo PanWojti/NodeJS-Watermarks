@@ -1,0 +1,12 @@
+{
+  "name": "NodeJS-Watermarks",
+  "version": "1.0.0",
+  "description": "app that adds watermarks to images",
+  "main": "index.js",
+  "author": "Wojti",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
